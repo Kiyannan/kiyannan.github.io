@@ -29,4 +29,28 @@
         <tag>blog</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Building Hexo-Next Blog with GitHub</title>
+    <url>/2023/05/27/Building-Hexo-Next-Blog-with-GitHub/</url>
+    <content><![CDATA[<h3 id="保留CNAME、README-md等文件"><a href="#保留CNAME、README-md等文件" class="headerlink" title="保留CNAME、README.md等文件"></a>保留CNAME、README.md等文件</h3><p>提交之后网页上一看，发现以前其它代码都没了，此时不要慌，一些非md文件可以把他们放到source文件夹下，这里的所有文件都会原样复制（除了md文件）到public目录的：</p>
+<p><img src="http://image.liuxianan.com/201608/20160818_141037_580_8035.png" alt="img"></p>
+<p>由于Hexo默认会把所有md文件都转换成html，包括README.md，所有需要每次生成之后、上传之前，手动将README.md复制到public目录，并删除README.html.[小茗同学的博客园][1]</p>
+<h3 id="Live2D"><a href="#Live2D" class="headerlink" title="Live2D"></a>Live2D</h3><p>[游戏解包看板娘][2]</p>
+<h3 id="自定义背景"><a href="#自定义背景" class="headerlink" title="自定义背景"></a>自定义背景</h3><p><a href="https://blog.csdn.net/qq_52116176/article/details/109406842">Hexo NexT主题自定义背景图片</a></p>
+<p><a href="https://juejin.cn/post/7217267332656742460">Hexo+Next博客设置背景图片+界面优化</a></p>
+<h3 id="参考博客-amp-重要的资源"><a href="#参考博客-amp-重要的资源" class="headerlink" title="参考博客&amp;重要的资源"></a>参考博客&amp;重要的资源</h3><p><a href="https://sspai.com/post/64093">3.2 主题部分的内容十分重要</a></p>
+<p><a href="https://hexo.io/plugins/">Hexo Plugin</a></p>
+<p>[GitHub Action的CI服务][3]</p>
+<p><a href="https://github.com/sdras/awesome-actions">Awesome Actions</a></p>
+<p><a href="https://github.com/marketplace?type=actions">GitHub Action MarketPlace</a></p>
+<p><a href="https://juejin.cn/post/6943895271751286821">如何使用 GitHub Actions 自动部署 Hexo 博客</a></p>
+<h3 id="Reference-Links"><a href="#Reference-Links" class="headerlink" title="Reference Links"></a>Reference Links</h3><p>[1]: <a href="https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html">https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html</a>	“使用hexo+github搭建免费个人博客详细教程”<br>[2]: <a href="https://www.south-plus.net/read.php?tid-1834173.html">https://www.south-plus.net/read.php?tid-1834173.html</a> “unity的live2d解包相关 “<br>[3]: <a href="https://www.ruanyifeng.com/blog/2019/12/github_actions.html">https://www.ruanyifeng.com/blog/2019/12/github_actions.html</a> “阮一峰的网络日志”</p>
+]]></content>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Blog</tag>
+        <tag>GitHub Actions</tag>
+        <tag>GitHub Pages</tag>
+      </tags>
+  </entry>
 </search>
