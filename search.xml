@@ -112,7 +112,7 @@
 <p>还有另一种方式引用图片，![refpic](&#x2F;post_img&#x2F;hexo博客搭建指北&#x2F;refpic.jpg 这是一张用这种方式引用的图片)</p>
 <p>用这种方式引用图片的话，把鼠标放在上面会显示图片描述（上面这张图就是用这种方式引用的）。</p>
 <p>只有这种方式引用图片才能在博客首页正常显示图片，否则只能点进博客才能看到图片。</p>
-<h2 id="设置页面宽度"><a href="#设置页面宽度" class="headerlink" title="设置页面宽度"></a>设置页面宽度</h2><p>打开主题文件下：<code>source/css/_varibles/Pisces.styl</code>文件.</p>
+<h4 id="设置页面宽度"><a href="#设置页面宽度" class="headerlink" title="设置页面宽度"></a>设置页面宽度</h4><p>打开主题文件下：<code>source/css/_varibles/Pisces.styl</code>文件.</p>
 <p>然后修改以下内容：</p>
 <figure class="highlight css"><table><tr><td class="code"><pre><span class="line">$<span class="attribute">content</span>-desktop-large   = <span class="number">70em</span></span><br><span class="line">$<span class="attribute">content</span>-desktop-largest = <span class="number">85%</span></span><br></pre></td></tr></table></figure>
 
