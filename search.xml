@@ -4,11 +4,11 @@
     <title>Hello World</title>
     <url>/2023/05/27/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<span id="more"></span>
-
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
@@ -32,10 +32,15 @@
   <entry>
     <title>Building Hexo-Next Blog with GitHub</title>
     <url>/2023/05/27/Building-Hexo-Next-Blog-with-GitHub/</url>
-    <content><![CDATA[<h3 id="保留CNAME、README-md等文件"><a href="#保留CNAME、README-md等文件" class="headerlink" title="保留CNAME、README.md等文件"></a>保留CNAME、README.md等文件</h3><p>提交之后网页上一看，发现以前其它代码都没了，此时不要慌，一些非md文件可以把他们放到source文件夹下，这里的所有文件都会原样复制（除了md文件）到public目录的：</p>
-<p><img src="http://image.liuxianan.com/201608/20160818_141037_580_8035.png" alt="img"></p>
+    <content><![CDATA[<h3 id="Theme-GitHub-amp-Docs"><a href="#Theme-GitHub-amp-Docs" class="headerlink" title="Theme GitHub &amp; Docs"></a>Theme GitHub &amp; Docs</h3><p><a href="https://github.com/next-theme/hexo-theme-next">Next Theme GitHub</a></p>
+<p><a href="https://theme-next.js.org/">Next Theme Docs</a></p>
+<span id="more"></span>
+
+<h3 id="保留CNAME、README-md等文件"><a href="#保留CNAME、README-md等文件" class="headerlink" title="保留CNAME、README.md等文件"></a>保留CNAME、README.md等文件</h3><p>提交之后网页上一看，发现以前其它代码都没了，此时不要慌，一些非md文件可以把他们放到source文件夹下，这里的所有文件都会原样复制（除了md文件）到public目录的：</p>
 <p>由于Hexo默认会把所有md文件都转换成html，包括README.md，所有需要每次生成之后、上传之前，手动将README.md复制到public目录，并删除README.html.[小茗同学的博客园][1]</p>
 <h3 id="Live2D"><a href="#Live2D" class="headerlink" title="Live2D"></a>Live2D</h3><p>[游戏解包看板娘][2]</p>
+<p><a href="https://github.com/stevenjoezhang/live2d-widget">Next Theme Live2D</a></p>
+<p><a href="https://zhangshuqiao.org/2018-07/%E5%9C%A8%E7%BD%91%E9%A1%B5%E4%B8%AD%E6%B7%BB%E5%8A%A0Live2D%E7%9C%8B%E6%9D%BF%E5%A8%98/">Next Theme Live2D(2)</a></p>
 <h3 id="自定义背景"><a href="#自定义背景" class="headerlink" title="自定义背景"></a>自定义背景</h3><p><a href="https://blog.csdn.net/qq_52116176/article/details/109406842">Hexo NexT主题自定义背景图片</a></p>
 <p><a href="https://juejin.cn/post/7217267332656742460">Hexo+Next博客设置背景图片+界面优化</a></p>
 <h3 id="参考博客-amp-重要的资源"><a href="#参考博客-amp-重要的资源" class="headerlink" title="参考博客&amp;重要的资源"></a>参考博客&amp;重要的资源</h3><p><a href="https://sspai.com/post/64093">3.2 主题部分的内容十分重要</a></p>
