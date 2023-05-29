@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Typecho</title>
+    <url>/2023/05/28/Typecho/</url>
+    <content><![CDATA[<p>因为想着迟早有一天要有自己的服务器然后部署动态网页，所以Hexo Next只能是过度，个人又非常喜欢Typecho这种轻量的Blog, 记录一下资源以待后续使用(给自己挖坑，悲<del>^</del>)</p>
+<span id="more"></span>
+
+<p><a href="http://101.32.194.18/4.html">http://101.32.194.18/4.html</a></p>
+<p><a href="https://www.typecho.wiki/themes/">https://www.typecho.wiki/themes/</a></p>
+<p><a href="https://typecho.org/">https://typecho.org/</a></p>
+<p><a href="https://www.youtube.com/watch?v=1bJyN7LqRqQ">https://www.youtube.com/watch?v=1bJyN7LqRqQ</a></p>
+<p><a href="https://blog.naibabiji.com/step">网页注意要点</a></p>
+<p><a href="https://cloud.tencent.com/developer/article/1005807?areaSource=106001.4">https://cloud.tencent.com/developer/article/1005807?areaSource=106001.4</a></p>
+<p><a href="https://juejin.cn/post/6969113070346403853">https://juejin.cn/post/6969113070346403853</a></p>
+<p><a href="https://cloud.tencent.com/developer/article/1900496">https://cloud.tencent.com/developer/article/1900496</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/34211709">https://zhuanlan.zhihu.com/p/34211709</a></p>
+<p><a href="https://www.namesilo.com/">https://www.namesilo.com/</a></p>
+<p><a href="https://www.fei-blog.life/?p=19">https://www.fei-blog.life/?p=19</a></p>
+<p><a href="https://www.vultr.com/vultr-vs-digitalocean/?promo=FLYVULTR250&utm_source=google-na-competition&utm_medium=paidmedia&obility_id=136728621086&utm_campaign=Competition_-_DigitalOcean_-_APAC_-_NA_-_Search&utm_term=digital%20ocean&utm_content=605387792618&gclid=CjwKCAjwscGjBhAXEiwAswQqNMfD9yP3VO7iiLcWce_vYnxsltlW4u_eIN3JIF3eurJHf_a6HZ0jhxoC1soQAvD_BwE">https://www.vultr.com/vultr-vs-digitalocean/?promo=FLYVULTR250&amp;utm_source=google-na-competition&amp;utm_medium=paidmedia&amp;obility_id=136728621086&amp;utm_campaign=Competition_-_DigitalOcean_-_APAC_-_NA_-_Search&amp;utm_term=digital%20ocean&amp;utm_content=605387792618&amp;gclid=CjwKCAjwscGjBhAXEiwAswQqNMfD9yP3VO7iiLcWce_vYnxsltlW4u_eIN3JIF3eurJHf_a6HZ0jhxoC1soQAvD_BwE</a></p>
+<p><a href="https://www.digitalocean.com/try/developer-brand?utm_campaign=amer_brand_kw_en_cpc&utm_adgroup=digitalocean_exact_exact&_keyword=digital%20ocean&_device=c&_adposition=&utm_content=conversion&utm_medium=cpc&utm_source=google&gad=1&gclid=CjwKCAjwscGjBhAXEiwAswQqNM295SyUjzAmMPJPdC8wzDsogx1hzhYAHfF6E8iOpz7shKAGYpN6RBoCuU0QAvD_BwE">https://www.digitalocean.com/try/developer-brand?utm_campaign=amer_brand_kw_en_cpc&amp;utm_adgroup=digitalocean_exact_exact&amp;_keyword=digital%20ocean&amp;_device=c&amp;_adposition=&amp;utm_content=conversion&amp;utm_medium=cpc&amp;utm_source=google&amp;gad=1&amp;gclid=CjwKCAjwscGjBhAXEiwAswQqNM295SyUjzAmMPJPdC8wzDsogx1hzhYAHfF6E8iOpz7shKAGYpN6RBoCuU0QAvD_BwE</a></p>
+<p><a href="https://github.com/newraina/typecho-theme-NexTPisces">https://github.com/newraina/typecho-theme-NexTPisces</a></p>
+<p><a href="https://github.com/stevenjoezhang/live2d-widget">https://github.com/stevenjoezhang/live2d-widget</a></p>
+<p><a href="https://sspai.com/post/64093">https://sspai.com/post/64093</a></p>
+<p><a href="https://github.com/newraina/typecho-theme-NexTPisces">https://github.com/newraina/typecho-theme-NexTPisces</a></p>
+]]></content>
+      <tags>
+        <tag>Typecho</tag>
+        <tag>Blog</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Building Hexo-Next Blog with GitHub</title>
     <url>/2023/05/27/Building-Hexo-Next-Blog-with-GitHub/</url>
     <content><![CDATA[<h3 id="Theme-GitHub-amp-Docs"><a href="#Theme-GitHub-amp-Docs" class="headerlink" title="Theme GitHub &amp; Docs"></a>Theme GitHub &amp; Docs</h3><p><a href="https://github.com/next-theme/hexo-theme-next">Next Theme GitHub</a></p>
@@ -98,6 +127,8 @@
 <h3 id="自定义"><a href="#自定义" class="headerlink" title="自定义"></a>自定义</h3><p><a href="https://www.lvxuefei.top/%E5%88%A9%E7%94%A8Hexo-Next%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E2%80%94%E2%80%94%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A0%B7%E5%BC%8F/">利用 Hexo-Next 搭建个人博客 – CSS自定义样式</a></p>
 <p><a href="https://finisky.github.io/2019/02/24/customizedcategory/">Hexo添加自定义分类菜单项并定制页面布局</a></p>
 <p><a href="https://haomingzhang.com/hexo_3/">为hexo next8.0主题添加一个可以切换的黑色&#x2F;夜间模式</a></p>
+<p><a href="https://hexo-next.readthedocs.io/zh_CN/latest/next/advanced/%E8%B0%83%E6%95%B4%E9%A1%B5%E9%9D%A2%E5%AE%BD%E5%BA%A6/">hexo修改主体区域宽度(1)</a></p>
+<p><a href="https://extremegtr.github.io/2017/09/27/Customize-NexT-Gemini-theme/">hexo修改主体区域宽度(2)</a></p>
 <h3 id="评论系统"><a href="#评论系统" class="headerlink" title="评论系统"></a>评论系统</h3><p><a href="https://blog.csdn.net/jiunian_2761/article/details/122621667">为 Next 主题添加 Waline 评论系统</a></p>
 <p><a href="https://www.zuicy.party/2022/05/03/Hexo_Next_%E4%B8%BB%E9%A2%98%E4%BD%BF%E7%94%A8_Waline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/">Hexo: Next 主题使用 Waline 评论系统</a></p>
 <p><a href="https://waline.js.org/migration/client.html#%E9%80%89%E9%A1%B9%E7%A7%BB%E9%99%A4">Waline 新版移除字段</a></p>
@@ -117,44 +148,18 @@
 <p><a href="https://jquery.com/">jquery</a></p>
 <p><a href="https://qianling.pw/hexo-optimization/">Hexo 优化汇总</a></p>
 <p><a href="https://qianling.vercel.app/about/">Vercel托管与腾讯CDN</a></p>
+<p><a href="https://hexo-next.readthedocs.io/zh_CN/latest/next/">Hexo-Next 非官方文档</a></p>
 <h3 id="Reference-Links"><a href="#Reference-Links" class="headerlink" title="Reference Links"></a>Reference Links</h3><p>[1]: <a href="https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html">https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html</a>	“使用hexo+github搭建免费个人博客详细教程”<br>[2]: <a href="https://www.south-plus.net/read.php?tid-1834173.html">https://www.south-plus.net/read.php?tid-1834173.html</a> “unity的live2d解包相关 “<br>[3]: <a href="https://www.ruanyifeng.com/blog/2019/12/github_actions.html">https://www.ruanyifeng.com/blog/2019/12/github_actions.html</a> “阮一峰的网络日志”<br>[4]: <a href="https://sunderarmor.ink/2019/06/23/Hexo%E4%B8%BB%E9%A2%98%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE/">https://sunderarmor.ink/2019/06/23/Hexo%E4%B8%BB%E9%A2%98%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE/</a> “Hexo-Next”</p>
 ]]></content>
       <categories>
-        <category>Blog</category>
+        <category>Bloh</category>
+        <category>Hexo</category>
       </categories>
       <tags>
-        <tag>Blog/Hexo</tag>
+        <tag>Blog</tag>
+        <tag>Hexo</tag>
         <tag>GitHub Actions</tag>
         <tag>GitHub Pages</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Typecho</title>
-    <url>/2023/05/28/Typecho/</url>
-    <content><![CDATA[<p>因为想着迟早有一天要有自己的服务器然后部署动态网页，所以Hexo Next只能是过度，个人又非常喜欢Typecho这种轻量的Blog, 记录一下资源以待后续使用(给自己挖坑，悲<del>^</del>)</p>
-<span id="more"></span>
-
-<p><a href="http://101.32.194.18/4.html">http://101.32.194.18/4.html</a></p>
-<p><a href="https://www.typecho.wiki/themes/">https://www.typecho.wiki/themes/</a></p>
-<p><a href="https://typecho.org/">https://typecho.org/</a></p>
-<p><a href="https://www.youtube.com/watch?v=1bJyN7LqRqQ">https://www.youtube.com/watch?v=1bJyN7LqRqQ</a></p>
-<p><a href="https://blog.naibabiji.com/step">网页注意要点</a></p>
-<p><a href="https://cloud.tencent.com/developer/article/1005807?areaSource=106001.4">https://cloud.tencent.com/developer/article/1005807?areaSource=106001.4</a></p>
-<p><a href="https://juejin.cn/post/6969113070346403853">https://juejin.cn/post/6969113070346403853</a></p>
-<p><a href="https://cloud.tencent.com/developer/article/1900496">https://cloud.tencent.com/developer/article/1900496</a></p>
-<p><a href="https://zhuanlan.zhihu.com/p/34211709">https://zhuanlan.zhihu.com/p/34211709</a></p>
-<p><a href="https://www.namesilo.com/">https://www.namesilo.com/</a></p>
-<p><a href="https://www.fei-blog.life/?p=19">https://www.fei-blog.life/?p=19</a></p>
-<p><a href="https://www.vultr.com/vultr-vs-digitalocean/?promo=FLYVULTR250&utm_source=google-na-competition&utm_medium=paidmedia&obility_id=136728621086&utm_campaign=Competition_-_DigitalOcean_-_APAC_-_NA_-_Search&utm_term=digital%20ocean&utm_content=605387792618&gclid=CjwKCAjwscGjBhAXEiwAswQqNMfD9yP3VO7iiLcWce_vYnxsltlW4u_eIN3JIF3eurJHf_a6HZ0jhxoC1soQAvD_BwE">https://www.vultr.com/vultr-vs-digitalocean/?promo=FLYVULTR250&amp;utm_source=google-na-competition&amp;utm_medium=paidmedia&amp;obility_id=136728621086&amp;utm_campaign=Competition_-_DigitalOcean_-_APAC_-_NA_-_Search&amp;utm_term=digital%20ocean&amp;utm_content=605387792618&amp;gclid=CjwKCAjwscGjBhAXEiwAswQqNMfD9yP3VO7iiLcWce_vYnxsltlW4u_eIN3JIF3eurJHf_a6HZ0jhxoC1soQAvD_BwE</a></p>
-<p><a href="https://www.digitalocean.com/try/developer-brand?utm_campaign=amer_brand_kw_en_cpc&utm_adgroup=digitalocean_exact_exact&_keyword=digital%20ocean&_device=c&_adposition=&utm_content=conversion&utm_medium=cpc&utm_source=google&gad=1&gclid=CjwKCAjwscGjBhAXEiwAswQqNM295SyUjzAmMPJPdC8wzDsogx1hzhYAHfF6E8iOpz7shKAGYpN6RBoCuU0QAvD_BwE">https://www.digitalocean.com/try/developer-brand?utm_campaign=amer_brand_kw_en_cpc&amp;utm_adgroup=digitalocean_exact_exact&amp;_keyword=digital%20ocean&amp;_device=c&amp;_adposition=&amp;utm_content=conversion&amp;utm_medium=cpc&amp;utm_source=google&amp;gad=1&amp;gclid=CjwKCAjwscGjBhAXEiwAswQqNM295SyUjzAmMPJPdC8wzDsogx1hzhYAHfF6E8iOpz7shKAGYpN6RBoCuU0QAvD_BwE</a></p>
-<p><a href="https://github.com/newraina/typecho-theme-NexTPisces">https://github.com/newraina/typecho-theme-NexTPisces</a></p>
-<p><a href="https://github.com/stevenjoezhang/live2d-widget">https://github.com/stevenjoezhang/live2d-widget</a></p>
-<p><a href="https://sspai.com/post/64093">https://sspai.com/post/64093</a></p>
-<p><a href="https://github.com/newraina/typecho-theme-NexTPisces">https://github.com/newraina/typecho-theme-NexTPisces</a></p>
-]]></content>
-      <tags>
-        <tag>Typecho</tag>
-        <tag>Blog</tag>
       </tags>
   </entry>
   <entry>
