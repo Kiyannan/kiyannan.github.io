@@ -2720,7 +2720,12 @@ body {
   opacity: 0.9;
 }
 .popup {
-  opacity: 0.8;
+  opacity: 1;
+  position: fixed;
+}
+.search-popup {
+  height: 55%;
+  width: 30%;
 }
 .column {
   position: relative;
