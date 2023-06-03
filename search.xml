@@ -1,35 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Typecho</title>
-    <url>/2023/05/28/Typecho/</url>
-    <content><![CDATA[<p>因为想着迟早有一天要有自己的服务器然后部署动态网页，所以Hexo Next只能是过度，个人又非常喜欢Typecho这种轻量的Blog, 记录一下资源以待后续使用(给自己挖坑，悲<del>^</del>)</p>
-<span id="more"></span>
-
-<p><a href="http://101.32.194.18/4.html">http://101.32.194.18/4.html</a></p>
-<p><a href="https://www.typecho.wiki/themes/">https://www.typecho.wiki/themes/</a></p>
-<p><a href="https://typecho.org/">https://typecho.org/</a></p>
-<p><a href="https://www.youtube.com/watch?v=1bJyN7LqRqQ">https://www.youtube.com/watch?v=1bJyN7LqRqQ</a></p>
-<p><a href="https://blog.naibabiji.com/step">网页注意要点</a></p>
-<p><a href="https://cloud.tencent.com/developer/article/1005807?areaSource=106001.4">https://cloud.tencent.com/developer/article/1005807?areaSource=106001.4</a></p>
-<p><a href="https://juejin.cn/post/6969113070346403853">https://juejin.cn/post/6969113070346403853</a></p>
-<p><a href="https://cloud.tencent.com/developer/article/1900496">https://cloud.tencent.com/developer/article/1900496</a></p>
-<p><a href="https://zhuanlan.zhihu.com/p/34211709">https://zhuanlan.zhihu.com/p/34211709</a></p>
-<p><a href="https://www.namesilo.com/">https://www.namesilo.com/</a></p>
-<p><a href="https://www.fei-blog.life/?p=19">https://www.fei-blog.life/?p=19</a></p>
-<p><a href="https://www.vultr.com/vultr-vs-digitalocean/?promo=FLYVULTR250&utm_source=google-na-competition&utm_medium=paidmedia&obility_id=136728621086&utm_campaign=Competition_-_DigitalOcean_-_APAC_-_NA_-_Search&utm_term=digital%20ocean&utm_content=605387792618&gclid=CjwKCAjwscGjBhAXEiwAswQqNMfD9yP3VO7iiLcWce_vYnxsltlW4u_eIN3JIF3eurJHf_a6HZ0jhxoC1soQAvD_BwE">https://www.vultr.com/vultr-vs-digitalocean/?promo=FLYVULTR250&amp;utm_source=google-na-competition&amp;utm_medium=paidmedia&amp;obility_id=136728621086&amp;utm_campaign=Competition_-_DigitalOcean_-_APAC_-_NA_-_Search&amp;utm_term=digital%20ocean&amp;utm_content=605387792618&amp;gclid=CjwKCAjwscGjBhAXEiwAswQqNMfD9yP3VO7iiLcWce_vYnxsltlW4u_eIN3JIF3eurJHf_a6HZ0jhxoC1soQAvD_BwE</a></p>
-<p><a href="https://www.digitalocean.com/try/developer-brand?utm_campaign=amer_brand_kw_en_cpc&utm_adgroup=digitalocean_exact_exact&_keyword=digital%20ocean&_device=c&_adposition=&utm_content=conversion&utm_medium=cpc&utm_source=google&gad=1&gclid=CjwKCAjwscGjBhAXEiwAswQqNM295SyUjzAmMPJPdC8wzDsogx1hzhYAHfF6E8iOpz7shKAGYpN6RBoCuU0QAvD_BwE">https://www.digitalocean.com/try/developer-brand?utm_campaign=amer_brand_kw_en_cpc&amp;utm_adgroup=digitalocean_exact_exact&amp;_keyword=digital%20ocean&amp;_device=c&amp;_adposition=&amp;utm_content=conversion&amp;utm_medium=cpc&amp;utm_source=google&amp;gad=1&amp;gclid=CjwKCAjwscGjBhAXEiwAswQqNM295SyUjzAmMPJPdC8wzDsogx1hzhYAHfF6E8iOpz7shKAGYpN6RBoCuU0QAvD_BwE</a></p>
-<p><a href="https://github.com/newraina/typecho-theme-NexTPisces">https://github.com/newraina/typecho-theme-NexTPisces</a></p>
-<p><a href="https://github.com/stevenjoezhang/live2d-widget">https://github.com/stevenjoezhang/live2d-widget</a></p>
-<p><a href="https://sspai.com/post/64093">https://sspai.com/post/64093</a></p>
-<p><a href="https://github.com/newraina/typecho-theme-NexTPisces">https://github.com/newraina/typecho-theme-NexTPisces</a></p>
-]]></content>
-      <tags>
-        <tag>Typecho</tag>
-        <tag>Blog</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Building Hexo-Next Blog with GitHub</title>
     <url>/2023/05/27/Building-Hexo-Next-Blog-with-GitHub/</url>
     <content><![CDATA[<h3 id="Theme-GitHub-amp-Docs"><a href="#Theme-GitHub-amp-Docs" class="headerlink" title="Theme GitHub &amp; Docs"></a>Theme GitHub &amp; Docs</h3><p><a href="https://github.com/next-theme/hexo-theme-next">Next Theme GitHub</a></p>
@@ -136,6 +107,18 @@
 <p><a href="https://waline.js.org/reference/server/env.html">Waline 服务端环境变量</a></p>
 <p><a href="https://www.techgrow.cn/posts/ae18fb85.html#hexo-waline-next">Waline 配置详解</a></p>
 <p><a href="https://github.com/marketplace/utterances">GitHub Utterances</a></p>
+<h3 id="站点地图-sitemap-及访客地图"><a href="#站点地图-sitemap-及访客地图" class="headerlink" title="站点地图(sitemap)及访客地图"></a>站点地图(sitemap)及访客地图</h3><p><a href="https://maxliu245.github.io/2021/03/21/%E3%80%90Hexo5%E3%80%91%E5%9C%A8%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A1%B5%E4%BE%A7%E8%BE%B9%E6%A0%8F%E6%B7%BB%E5%8A%A0%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%A4%96%E9%93%BE-%E8%AE%BF%E9%97%AE%E8%80%85%E5%9C%B0%E5%9B%BE/">在博客主页侧边栏添加网易云音乐外链&amp;访问者地图</a></p>
+<h3 id="Live2D-Widget"><a href="#Live2D-Widget" class="headerlink" title="Live2D-Widget"></a>Live2D-Widget</h3><p><a href="https://github.com/stevenjoezhang/live2d-widget">张书樵大神的魔改Live2D</a></p>
+<p><a href="https://www.fghrsh.net/post/123.html">网页添加 Live2D 看板娘</a></p>
+<p><a href="https://blog.pangao.vip/Hexo%E5%8D%9A%E5%AE%A2NexT%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96%E4%B9%8B%E6%96%B0%E5%A2%9E%E7%9C%8B%E6%9D%BF%E5%A8%98(%E8%83%BD%E8%AF%B4%E8%AF%9D%E3%80%81%E8%83%BD%E6%8D%A2%E8%A3%85)/">Hexo博客NexT主题美化之新增看板娘(能说话、能换装)</a></p>
+<p><a href="https://sunboy.ltd/posts/219c.html">看板娘位置调整</a></p>
+<p><a href="https://github.com/stevenjoezhang/live2d-widget/pull/64/files">在工具栏添加让看看板娘左右调整位置的按钮</a></p>
+<p><a href="https://matoujin.top/archives/515">自定义live2d 看板娘教程（moc3&amp;moc）</a></p>
+<p><a href="https://blog.cyfan.top/p/a12e0ab7.html">看板娘更换</a></p>
+<p><a href="https://blog.cyfan.top/p/abf13c7a.html">Live2D：为你的hexo博客添加萌萌哒看板娘 |</a></p>
+<p><a href="https://www.fghrsh.net/post/170.html">原作者自建API步骤</a></p>
+<p><a href="https://among.moe/aLive2D/up.html">自建api</a></p>
+<h3 id="侧边栏"><a href="#侧边栏" class="headerlink" title="侧边栏"></a>侧边栏</h3><p><a href="https://yifanzhang13.github.io/2020/04/02/NexT-Theme-Decoration/">选项解释</a></p>
 <h3 id="参考博客-amp-重要的资源"><a href="#参考博客-amp-重要的资源" class="headerlink" title="参考博客&amp;重要的资源"></a>参考博客&amp;重要的资源</h3><p><a href="https://sspai.com/post/64093">3.2 主题部分的内容十分重要</a></p>
 <p><a href="https://hexo.io/plugins/">Hexo Plugin</a></p>
 <p>[GitHub Action的CI服务][3]</p>
@@ -160,6 +143,296 @@
         <tag>Hexo</tag>
         <tag>GitHub Actions</tag>
         <tag>GitHub Pages</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Typecho</title>
+    <url>/2023/05/28/Typecho/</url>
+    <content><![CDATA[<p>因为想着迟早有一天要有自己的服务器然后部署动态网页，所以Hexo Next只能是过度，个人又非常喜欢Typecho这种轻量的Blog, 记录一下资源以待后续使用(给自己挖坑，悲<del>^</del>)</p>
+<span id="more"></span>
+
+<p><a href="http://101.32.194.18/4.html">http://101.32.194.18/4.html</a></p>
+<p><a href="https://www.typecho.wiki/themes/">https://www.typecho.wiki/themes/</a></p>
+<p><a href="https://typecho.org/">https://typecho.org/</a></p>
+<p><a href="https://www.youtube.com/watch?v=1bJyN7LqRqQ">https://www.youtube.com/watch?v=1bJyN7LqRqQ</a></p>
+<p><a href="https://blog.naibabiji.com/step">网页注意要点</a></p>
+<p><a href="https://cloud.tencent.com/developer/article/1005807?areaSource=106001.4">https://cloud.tencent.com/developer/article/1005807?areaSource=106001.4</a></p>
+<p><a href="https://juejin.cn/post/6969113070346403853">https://juejin.cn/post/6969113070346403853</a></p>
+<p><a href="https://cloud.tencent.com/developer/article/1900496">https://cloud.tencent.com/developer/article/1900496</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/34211709">https://zhuanlan.zhihu.com/p/34211709</a></p>
+<p><a href="https://www.namesilo.com/">https://www.namesilo.com/</a></p>
+<p><a href="https://www.fei-blog.life/?p=19">https://www.fei-blog.life/?p=19</a></p>
+<p><a href="https://www.vultr.com/vultr-vs-digitalocean/?promo=FLYVULTR250&utm_source=google-na-competition&utm_medium=paidmedia&obility_id=136728621086&utm_campaign=Competition_-_DigitalOcean_-_APAC_-_NA_-_Search&utm_term=digital%20ocean&utm_content=605387792618&gclid=CjwKCAjwscGjBhAXEiwAswQqNMfD9yP3VO7iiLcWce_vYnxsltlW4u_eIN3JIF3eurJHf_a6HZ0jhxoC1soQAvD_BwE">https://www.vultr.com/vultr-vs-digitalocean/?promo=FLYVULTR250&amp;utm_source=google-na-competition&amp;utm_medium=paidmedia&amp;obility_id=136728621086&amp;utm_campaign=Competition_-_DigitalOcean_-_APAC_-_NA_-_Search&amp;utm_term=digital%20ocean&amp;utm_content=605387792618&amp;gclid=CjwKCAjwscGjBhAXEiwAswQqNMfD9yP3VO7iiLcWce_vYnxsltlW4u_eIN3JIF3eurJHf_a6HZ0jhxoC1soQAvD_BwE</a></p>
+<p><a href="https://www.digitalocean.com/try/developer-brand?utm_campaign=amer_brand_kw_en_cpc&utm_adgroup=digitalocean_exact_exact&_keyword=digital%20ocean&_device=c&_adposition=&utm_content=conversion&utm_medium=cpc&utm_source=google&gad=1&gclid=CjwKCAjwscGjBhAXEiwAswQqNM295SyUjzAmMPJPdC8wzDsogx1hzhYAHfF6E8iOpz7shKAGYpN6RBoCuU0QAvD_BwE">https://www.digitalocean.com/try/developer-brand?utm_campaign=amer_brand_kw_en_cpc&amp;utm_adgroup=digitalocean_exact_exact&amp;_keyword=digital%20ocean&amp;_device=c&amp;_adposition=&amp;utm_content=conversion&amp;utm_medium=cpc&amp;utm_source=google&amp;gad=1&amp;gclid=CjwKCAjwscGjBhAXEiwAswQqNM295SyUjzAmMPJPdC8wzDsogx1hzhYAHfF6E8iOpz7shKAGYpN6RBoCuU0QAvD_BwE</a></p>
+<p><a href="https://github.com/newraina/typecho-theme-NexTPisces">https://github.com/newraina/typecho-theme-NexTPisces</a></p>
+<p><a href="https://github.com/stevenjoezhang/live2d-widget">https://github.com/stevenjoezhang/live2d-widget</a></p>
+<p><a href="https://sspai.com/post/64093">https://sspai.com/post/64093</a></p>
+<p><a href="https://github.com/newraina/typecho-theme-NexTPisces">https://github.com/newraina/typecho-theme-NexTPisces</a></p>
+]]></content>
+      <tags>
+        <tag>Blog</tag>
+        <tag>Typecho</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>E-book(1)</title>
+    <url>/2023/05/31/E-book(1)/</url>
+    <content><![CDATA[<h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p>寻找读秀资源的朋友，可以看<a href="https://www.bilibili.com/video/BV1Lh4y1H7ot/?from=search">读秀6.0更新5000本！纯为爱发电<em>哔哩哔哩</em>bilibili</a>，里面提到了几个百度网盘分享群，可尝试加入，无收费等情况，可部分解决目前大部分平台只提供dxid不再显示ssid的问题。</p>
+<span id="more"></span>
+
+<h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><p>显示图书在各文献平台上的编号，提升文献互助、图书流通的效率；提供各文献站点、图书电商站与豆瓣图书间的互访链接，以方便查询更丰富的数据项；一键复制各平台图书数据，便利信息发布和互助交流。</p>
+<h2 id="功能列表"><a href="#功能列表" class="headerlink" title="功能列表"></a>功能列表</h2><ul>
+<li>访问 **<a href="http://www.dglib.superlib.net/">全国图书馆参考咨询联盟</a>**、各种 <strong><a href="http://book.ccelib.com/search?sw=%E6%96%87%E7%8C%AE&allsw=&bCon=&ecode=utf-8&channel=search&Field=all">读秀镜像站</a><strong>、</strong><a href="https://cadal.edu.cn/cadalinfo/search">CADAL</a><strong>、</strong><a href="http://www.ncpssd.org/Literature/ancientbooklist.aspx">国家哲学社会科学文献中心</a><strong>、</strong><a href="https://www.digital.archives.go.jp/">国立公文書館デジタルアーカイブ</a></strong> 时，搜索需要的图书，本脚本会显示图书的ssid或dxid（读秀）、ssno（CADAL）、bcid（文献中心）、daid（国立公文書館），并显示图书到豆瓣的链接、此号段库存率（限读秀、CADAL）、到目录页的链接（限读秀）等信息。</li>
+<li>访问豆瓣图书各种页面时，显示到参考联盟或其他有价值的相关站点的链接。</li>
+<li>访问各图书电商站，显示图书到参考联盟、豆瓣图书的链接。</li>
+<li>在各种受支持的页面上，点击图书ID或豆瓣链接旁的📋图标，可一键复制图书ID或图书元信息。</li>
+<li>在读秀及其镜像站上，打开全文阅读页面 （url：<a href="https://img.sslibrary.com/n/slib/book/slib//d+/*%EF%BC%89">https://img.sslibrary.com/n/slib/book/slib/\d+/*）</a> 或 部分试读页面 （url：<a href="https://img.duxiu.com/n/jpgfs/book/base//d+/*%EF%BC%89">https://img.duxiu.com/n/jpgfs/book/base/\d+/*）</a> ，操作顶部工具条右上角添加的按钮，可以指定格式、清晰度下载指定范围的页面，可选择是否下载目录等附属页，可直接保存为PDF，可一键下载书签（如有可用）。</li>
+</ul>
+<h2 id="近期更新和重要提示"><a href="#近期更新和重要提示" class="headerlink" title="近期更新和重要提示"></a>近期更新和重要提示</h2><p>[新功能] 1.10.0以上，读秀系网站支持试读、全文阅读的书，新增一键下载功能，支持以PDF、ZIP或者分页格式下载指定页面范围，可选择清晰度、是否下载附录页，全文阅读时，可下载目录。如果你无法使用学校的数字图书馆，建议使用<a href="http://book.ccelib.com/">长春数字图书馆 - 读秀镜像站</a>或<a href="http://fx.ccelib.com/">长春数字图书馆 - 读秀镜像站</a>。</p>
+<p><img src="https://greasyfork.s3.us-east-2.amazonaws.com/5jtxl9wuh6j7lv7uq3hxz6kyspdw" alt="一键下载功能图解"></p>
+<p>[新功能] 1.9.0以上，在京东、当当、中国图书网、孔夫子旧书网、得到电子书、咪咕云书店、豆瓣阅读等图书电商站上提供到参考联盟和豆瓣图书的链接。此版本开始配合支持自动翻页脚本。</p>
+<p>[新功能] 1.7.2以上，提供一键复制图书元数据，支持豆瓣、图书馆参考咨询联盟、读秀、CADAL、社科文献中心等站点，覆盖SS号、书名、作者、出版社、出版日期、页数、主题词、简介、评分、热度、链接等多项信息，可以助力图书信息的高效交互，欢迎使用。</p>
+<p>[提示] 如果你在本脚本起作用的页面也使用了其它脚本（目前确认的只有名为“进步空间”的脚本），可能会碰到一些异常情况，如豆瓣搜索链接反复出现，这是已知的兼容性问题，暂时将其禁用即可解决，详见<a href="https://greasyfork.org/zh-CN/scripts/435569/discussions/149350">讨论</a>。为了配合支持自动翻页，脚本设置了一个定时监测任务，其他脚本添加的元素可能干扰这个定时任务对特定元素的检测，从而导致问题。本脚本开发时将尽量通过绝对定位而非相对关系定位检测特征元素，但无法完全避免此类兼容性问题，请大家知晓。</p>
+<p>[提示] 2022年9月初，读秀在封面链接中使用了新版iid参数，之前根据iid计算ssid的算法已不可用。受此影响，读秀及其镜像站无法显示ssid，只能显示dxid。<strong>参考联盟及其镜像站不受影响。</strong><a href="https://greasyfork.org/zh-CN/scripts/435569/discussions/147938">请有能力解决问题的大拿提供帮助</a>。</p>
+<p>一键复制结果预览：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">【书名】缺席的城市</span><br><span class="line">【评分】8.9分 / 196人评价</span><br><span class="line">【热度】52人在读 / 215人读过 / 5949人想读，短评 108 条，书评 7 条</span><br><span class="line">【作者】[阿根廷] 里卡多·皮格利亚</span><br><span class="line">【出版社】四川文艺出版社</span><br><span class="line">【出品方】后浪/后浪文学</span><br><span class="line">【原作名】La ciudad ausente</span><br><span class="line">【译者】韩璐</span><br><span class="line">【出版年】2022-7</span><br><span class="line">【页数】208</span><br><span class="line">【定价】68.00元</span><br><span class="line">【装帧】精装</span><br><span class="line">【丛书】后浪·西语文学补完计划</span><br><span class="line">【ISBN】9787541163623</span><br><span class="line">【链接】https://book.douban.com/subject/35932955/</span><br><span class="line">【SSID】12138966</span><br><span class="line">【书名】白夜行</span><br><span class="line">【作者】（日）东野圭吾著，刘姿君译 </span><br><span class="line">【出版发行】海口：南海出版公司 , 2008.09</span><br><span class="line">【ISBN号】978-7-5442-4251-6 </span><br><span class="line">【页数】472丛书名 : 新经典文库</span><br><span class="line">【原书定价】29.80</span><br><span class="line">【开本】大32开</span><br><span class="line">【主题词】推理小说-日本-现代</span><br><span class="line">【中图法分类号】I313.45( 文学-&gt;亚洲文学 )</span><br><span class="line">【内容提要】将无望却坚守的凄凉爱情和执著而缜密的冷静推理完美结合，被众多“东饭”视作东野圭吾作品中的无冕之王，被称为东野笔下“最绝望的念想、最悲恸的守望”，出版之后引起巨大轰动，使东野圭吾成为天王级作家。2006年，小说被改编成同名电视连续剧，一举囊括第48届日剧学院奖四项大奖，与图书一同为作家带来如潮好评，使他成为日本、韩国与中国台湾等地最受欢迎的作家之一。“只希望能手牵手在太阳下散步”，这句象征本书故事内核的绝望念想，有如一个美丽的幌子，随着无数凌乱、压抑、悲凉的事件片段如纪录片一样一一还原，最后一丝温情也被完全……</span><br><span class="line">【参考文献格式】（日）东野圭吾著，刘姿君译.白夜行[M].海口：南海出版公司,2008.09.</span><br><span class="line">【引用】被引用指数 0.7337，被图书引用册数 135</span><br><span class="line">【链接】http://book.ccelib.com/bookDetail.jsp?dxNumber=000006611309&amp;d=31A6D36216D49F8F308912256637DD57</span><br></pre></td></tr></table></figure>
+
+
+
+<h2 id="部分推荐使用的查询网站"><a href="#部分推荐使用的查询网站" class="headerlink" title="部分推荐使用的查询网站"></a>部分推荐使用的查询网站</h2><ul>
+<li><a href="http://book.ucdrs.superlib.net/">全国图书馆参考咨询联盟</a>（读秀的公众版，若提示IP不在服务范围内，注册账号后就可以使用了。）</li>
+<li><a href="https://cadal.edu.cn/cadalinfo/search">CADAL</a>（有读秀欠缺的一些馆藏古籍，第一期60W+的资料在网络上被公开）</li>
+<li><a href="http://www.ncpssd.org/Literature/ancientbooklist.aspx">国家哲学社会科学文献中心</a>，至今（2022-05-14）已发布了13267册古籍。</li>
+<li><a href="https://www.digital.archives.go.jp/">国立公文書館デジタルアーカイブ</a></li>
+</ul>
+<p>几个之前不注册也可以使用的网站，现在都要求特定IP访问或者有帐号才可以，不再推荐。</p>
+<ul>
+<li><a href="http://www.dglib.superlib.net/">东莞图书馆文献检索</a>（图书馆参考咨询联盟的镜像）</li>
+<li><a href="http://book.ccelib.com/search?sw=%E8%B6%85%E6%98%9F+%E8%AF%BB%E7%A7%80+%E6%96%87%E7%8C%AE%E4%BA%92%E5%8A%A9&allsw=&bCon=&ecode=utf-8&channel=search&Field=all">长春数字图书馆 - 读秀镜像站</a></li>
+<li><a href="http://fx.ccelib.com/s?sw=%E6%96%87%E7%8C%AE%E4%BA%92%E5%8A%A9&strchannel=11,12&size=15&isort=0&x=65_689">长春数字图书馆 - 读秀相同内容但独立风格</a></li>
+</ul>
+<p><a href="https://www.duxiu.com/">读秀</a>不对公众开放，但本脚本也支持各大学、省市图书馆的读秀镜像站。欢迎留言推荐有价值的文献站点、元数据站点。</p>
+<h2 id="功能详解"><a href="#功能详解" class="headerlink" title="功能详解"></a>功能详解</h2><h3 id="文献编号"><a href="#文献编号" class="headerlink" title="文献编号"></a>文献编号</h3><p>ssid或dxid是索引、查询读秀系图书资源的标准，部分图书只有dxid，ssid被隐藏了；ssno是CADAL的图书编号；bcid是国家哲学社会科学文献中心给古籍的编号barcodenum；daid是国立公文書館的文献编号，有F+19位数字、M+19位数字两类，分别为辑合、单本的编号。</p>
+<p>使用书名、ISBN等查书，难免碰到重名、数据项缺失等情况，很多文献在本地、网盘存储时可能也只使用编号命名，因此使用这些文献编号，可提高文献获取的效率。</p>
+<h3 id="从哪里获取电子书"><a href="#从哪里获取电子书" class="headerlink" title="从哪里获取电子书"></a>从哪里获取电子书</h3><p>红太狼的平底锅（pdg格式谐音梗）是一个很有名的脚本，可以显示ssid和售书链接，很早就[被]删除了。本脚本与红太狼的平底锅油猴脚本无关，不支持购买和下载，如果你要找书，可以<a href="https://greasyfork.org/zh-CN/scripts/435569/discussions/150323#comment-330079">从这里找到办法</a>，不用再花钱了。</p>
+<p>最初写这个脚本，是为了有一个没有购买链接又能显示ssid的脚本用。现在免费获得电子书的途径越来越多了，如果上面的链接中提到的办法还是无法帮到你，你也可以把通过脚本获得的书号发送到一些百度机器人群组，或一些开店卖书人，他们也许可以帮你找到需要的书。</p>
+<h3 id="对部分功能的详解"><a href="#对部分功能的详解" class="headerlink" title="对部分功能的详解"></a>对部分功能的详解</h3><p>1、<strong>在参考咨询联盟ucdrs或读秀duxiu及其镜像站的搜索页、图书页显示ssid或dxid</strong></p>
+<ul>
+<li>访问<a href="http://book.ucdrs.superlib.net/">全国图书馆参考咨询联盟</a> 或<a href="http://www.duxiu.com/">读秀</a> 及其镜像站时，此脚本从页面源码中获取一本书的编号，并显示在封面下面。</li>
+<li>如果源码中提供了SS号，即ssid（超星 super star id），则显示它；否则显示DX号，即dxid（读秀 duxiu id）。</li>
+<li>在找书时，用ssid或dxid可极大节省力气，不用查线下512w的书表或手动翻页查找。</li>
+</ul>
+<p>2、<strong>显示大学数字图书馆国际合作计划cadal的书号ssno</strong></p>
+<p>cadal的编目ID称作ssno，多为8位数字或H+7位数字，报纸等个别类型为8位组合英数，为避免与ssid或dxid混淆，显示时添加CD前缀。</p>
+<p>3、<strong>显示读秀、图书馆参考咨询联盟、CADAL 和 豆瓣间的跳转链接</strong></p>
+<ul>
+<li>图书馆参考咨询联盟、读秀的搜索页、图书页上显示到豆瓣的链接</li>
+<li>豆瓣的搜索、标签、详情、丛书、出版者、版本、作者、豆列、想读、在读、已读、购书单等12种页面上显示到参考咨询联盟的链接</li>
+<li>如果读秀等提供了图书的ISBN，则提供到豆瓣的直达链接，否则提供到豆瓣搜索的链接</li>
+<li>读秀的搜索页、详情页提供到目录搜索页的链接，如果你能用读秀，就不要用图书馆参考咨询联盟了，因为读秀提供的信息更丰富，一般大学图书馆都购买了读秀数据库</li>
+</ul>
+<h3 id="资源相关知识"><a href="#资源相关知识" class="headerlink" title="资源相关知识"></a>资源相关知识</h3><p><strong>读秀 &amp; 超星</strong></p>
+<p>超星扫描了四五百万种图书，制作成pdg格式电子书，以读秀、龙岩网络图书馆、深圳文献港等品牌向机构用户提供目录搜索、试读、电子全文（汇雅电子书）、包库、文献传递等服务，网上流传的中文扫描pdf电子书多半来源于此。</p>
+<p>如果你不在读秀服务的机构，可以使用<a href="http://book.ucdrs.superlib.net/">全国图书馆参考咨询联盟 UCDRS</a>，它是<a href="https://www.duxiu.com/">读秀</a>的开放替代者，虽不提供电子书整本阅读，但其图书目录和搜索功能很有用。具体怎么用呢，要从代找PDF说起。</p>
+<p>代找PDF的伙计们从哪里下载电子书？首先他们有“自建库”或“自建库”的入口，自建库就是读秀的镜像，只不过不是源自官方的完整镜像，而是多渠道陆陆续续积攒起来的，具体可以百度一下。可自建库的数据量高达几百T，里面有几百万个文件，如何定位到需要的文件呢？读秀或ucdrs上的每本图书有ssid和dxid两个编号，而自建库里的书就是用ssid命名的，他们就是通过这个编号查找电子档。dxid有什么用呢？因为读秀某时间点后隐藏了很多书的ssid，而没有隐藏dxid，所以如果有人在读秀隐藏ssid之前记录了dxid和ssid的映射表的话，你提供dxid，他也知道你要找的书的ssid是多少。</p>
+<p>所以，本脚本就是在你访问ucdrs时显示某本书的ssid或dxid，如果你有机会接触到读秀的资源库，就可据此定位图书的电子文档。</p>
+<p>小知识：</p>
+<ul>
+<li>自建库有读秀2.0、3.0、4.0、5.0的版本区别，这个版本是读秀定义的，目前是5.0，从 <a href="https://www.duxiu.com/bottom/version.html">https://www.duxiu.com/bottom/version.html</a> 可以看得到。2022年2月15日前后4.0升级为5.0，而最迟在2017年6月30日时，还是2.0 (<a href="https://web.archive.org/web/20170630071746/https://www.duxiu.com/bottom/version.html)%EF%BC%8C3.0%E6%98%AF%E5%93%AA%E5%B9%B4%E7%9A%84%EF%BC%8C%E6%88%91%E4%B9%9F%E4%B8%8D%E7%9F%A5%E9%81%93%E3%80%82">https://web.archive.org/web/20170630071746/https://www.duxiu.com/bottom/version.html)，3.0是哪年的，我也不知道。</a></li>
+<li>pdg文件通常打包为zip文件，解压后可以很方便地转换为pdf，下载老马的Pdg2Pic即可，此工具免费 (<a href="https://www.cnblogs.com/stronghorse/p/14594337.html)%E3%80%82">https://www.cnblogs.com/stronghorse/p/14594337.html)。</a></li>
+</ul>
+<p><strong>CADAL</strong></p>
+<p>2000年12月，中美两国计算机专家共同发起了’中美百万册书数字图书馆合作计划’（China-US Million Book Digital Library Project），计划用五年时间由中美两国共建达百万册中英文图书的数字图书馆，以提供便捷的全球可访问的全文图书浏览服务。项目被中国教育部列为’十 五’期间’211工程’公共服务体系建设的重要组成部分，并与中国高等学校文献保障体系（CALIS）一起，构成中国高等教育数字化图书馆的框架。项 目名称定为’高等学校中英文图书数字化国际合作计划’（英文简称CADAL）。</p>
+<p>CADAL项目一期（2001-2006）完成100万册图书数字化，提供便捷的全球可访问的图书浏览服务。CADAL项目二期（2007-2012）新增150万册图书数字化，构建了较完善的项目标准规范体系，初步建设分布全国的服务网络，CADAL项目从单纯的数据收集向技术与服务升级发展转变。2013年以后，CADAL项目进入运维保障期，继续在资源，服务，技术，对外交流合作等方面推进工作。百万册图书规模的数字资源建设主要服务于高校的教学和科研，同时兼顾到民族优秀文化遗产的保存与传承。</p>
+<p>按语言封类，该库资源覆盖：</p>
+<ul>
+<li>中文资源50万册：现代中文图书30万册，项目 参加单位的硕士、博士学位论文10万篇，民国（1911-1949）书籍10万册，古籍及其他珍贵的传统文化资源10万卷（件）以内；</li>
+<li>英文资源50万册：美国大学图书馆核心馆藏中版权明晰的重要学术著作，其他无版权问题的英文资源，美方提供的10万册电子图书及学位论文、技术报告、会议录等原生数字化资料。</li>
+</ul>
+<p>按形态分类，该库资源包括：</p>
+<ul>
+<li>图书（古籍、民国图书、当代图书、外文图书）；</li>
+<li>期刊（民国期刊、当代期刊）；</li>
+<li>报纸；</li>
+<li>学位论文（民国学位论文、当代学位论文）；</li>
+<li>多媒体（音视频、图形图像）；</li>
+<li>特藏资源（侨批、满铁、地方志、生活资料）等。</li>
+</ul>
+<p>此项目早期声称拥有中美官方合作扫描百万册的中英文电子书，“中美百万”故而得名。中美百万CADAL第一期工程（2016年前）期间，有人用工具累积下载了60W+数字资源，这些资源目前可以在网上找到，文件名中有ssno，所以ssno可以辅助定位资源。这60W+资源主要是2005年以前浙大图书馆的库藏，基本是2000年以前的书（30W）和论文（30W），还有一些四川大学藏书。</p>
+<p><strong>国家哲学社会科学文献中心</strong></p>
+<p>“国家哲学社会科学文献中心”立足全国哲学社会科学领域，由国家投入和支持，开展哲学社会科学文献信息资源建设和服务。发布包含中文期刊、外文期刊、外文图书和古籍四大类的资源，收录哲学社会科学相关领域文献共计10,000,000余条，其中古籍一万三千多种，免费提供在线阅读、全文下载等服务；还收录有国内外哲学社会科学领域重要的政府机构、高等院校、学术机构以及数据库的链接，便于查阅、使用。</p>
+<p><strong>国立公文書館 &#x2F; 内阁文库</strong></p>
+<p>内阁文库是日本一所收藏汉、 日文古籍的专门图书馆。藏书总量为54万册，其中日文书31万多册、汉籍18万多册、西文书4.5万多册。详见<a href="https://baike.baidu.com/item/%E5%86%85%E9%98%81%E6%96%87%E5%BA%93/12576969">内阁文库</a>。</p>
+<h2 id="示意图"><a href="#示意图" class="headerlink" title="示意图"></a>示意图</h2><p>greasyfork最多允许上传5张截图，修改也有点麻烦，所以做了几张新的传到了一个图床上，希望帮助了解它的用法。</p>
+<p>豆瓣图书↓</p>
+<p><img src="https://s2.loli.net/2022/08/28/GtWAXd27i1DwLcI.png" alt="20220828122631.png"></p>
+<p>图书馆参考咨询联盟搜索页↓</p>
+<p><img src="https://s2.loli.net/2022/08/28/BelWY4SsjRNpJuT.png" alt="20220828122725.png"></p>
+<p>图书馆参考咨询联盟详情页↓</p>
+<p><img src="https://s2.loli.net/2022/08/28/mUdW2Kj1hIC7Pgu.png" alt="20220828122748.png"></p>
+<p>读秀及其镜像站↓</p>
+<p><img src="https://s2.loli.net/2022/08/28/Ns5BCT932Zi8IJE.png" alt="20220828123041.png"></p>
+<p>CADAL↓</p>
+<p><img src="https://s2.loli.net/2022/08/28/4YB5JLZ6pnejbtV.png" alt="20220828123759.png"></p>
+<p>社科文献中心NCPSSD↓</p>
+<p><img src="https://s2.loli.net/2022/08/28/rxMz6cX9PLeRJDg.png" alt="20220828123854.png"></p>
+<p>日本内阁文库↓</p>
+<p><img src="https://s2.loli.net/2022/08/28/C9VEa7grZof86Fi.png" alt="20220828124007.png"></p>
+<h2 id="安装后测试效果的页面"><a href="#安装后测试效果的页面" class="headerlink" title="安装后测试效果的页面"></a>安装后测试效果的页面</h2><p><a href="http://book.ccelib.com/search?sw=%E8%B6%85%E6%98%9F+%E8%AF%BB%E7%A7%80+%E6%96%87%E7%8C%AE%E4%BA%92%E5%8A%A9&allsw=&bCon=&ecode=utf-8&channel=search&Field=all">读秀搜索页</a>、[读秀目录页](<a href="http://book.ccelib.com/chapter.jsp?dxNumber=000008258308&d=1906EC827DCB0CF9228AD779B12BD3DF&fenlei=0703060307&sw=1">http://book.ccelib.com/chapter.jsp?dxNumber=000008258308&amp;d=1906EC827DCB0CF9228AD779B12BD3DF&amp;fenlei=0703060307&amp;sw=1</a> 2 3 中 4 5 6 7 8 大 参考 9 是 人 上 附 不 小 从 之 下 有 用 以 多 后 表 什么 十 10 部分 前 到 图 我 如何 要 可 内 里 记 区 外 天 来 你 西 再 序 南 步骤 同 录 附 去 女 篇 开 文 都 题 东 就 节 他 也 公 北 结 右 又 少 百 那 这 关 没 千 表格 个 男 章 0 论 几 今 左 万)、<a href="http://book.ucdrs.superlib.net/search?sw=%E9%A1%BE%E5%87%86%E6%96%87%E9%9B%86&bCon=&ecode=utf-8&channel=search&Field=1">参考联盟搜索页</a>、<a href="http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=161000061555&d=E3F0CC629CC78A9DE3F5DEB9914B995F&fenlei=030603">参考联盟图书页</a>、<a href="https://cadal.edu.cn/cadalinfo/search?syear=&eyear=&searchId=5dbcd9de-c27f-45fc-a111-9f1b74de2eb6&searchType=sw&leftSearchType=firstLevelType&leftSearchContent=%E5%9B%BE%E4%B9%A6&left_type=%E9%9F%B3%E8%A7%86%E9%A2%91,%E5%9B%BE%E5%BD%A2%E5%9B%BE%E5%83%8F&left_date=&left_tag_library=&pageSize=&searchForSort=&showType=result&startYear=&endYear=">CADAL搜索页</a>、<a href="https://cadal.edu.cn/cardpage/bookCardPage?ssno=06308926">CADAL图书详情页</a>、<a href="https://www.digital.archives.go.jp/DAS/meta/result?IS_KIND=hierarchy&IS_NUMBER=100&IS_START=1&IS_TAG_S51=prnid&IS_STYLE=default&IS_KEY_S51=F1000000000000095536&IS_EXTSCH=F2009121017025600406+F2005031812174403109+F2008112110370021712+F1000000000000095536&IS_ORG_ID=F1000000000000095536&LIST_TYPE=default&IS_SORT_FLD=sort.tror,sort.refc&IS_SORT_KND=asc">国立公文書館 - 検索結果一覧画面 - 簿冊情報</a>、<a href="https://www.digital.archives.go.jp/DAS/meta/result?IS_KIND=hierarchy&IS_NUMBER=100&IS_START=1&IS_TAG_S51=prnid&IS_STYLE=default&IS_KEY_S51=F2008112110370021712&IS_EXTSCH=F2009121017025600406+F2005031812174403109+F2008112110370021712+F1000000000000095536&IS_ORG_ID=F2008112110370021712&LIST_TYPE=default&IS_SORT_FLD=sort.tror,sort.refc&IS_SORT_KND=asc">国立公文書館 - 検索結果一覧画面 - 資料群情報</a>、<a href="https://www.digital.archives.go.jp/DAS/meta/result?DEF_XSL=detail&IS_KIND=detail&DB_ID=G9100001EXTERNAL&GRP_ID=G9100001&IS_TAG_S16=eadid&IS_KEY_S16=F2008112110370021712&IS_LGC_S16=AND&IS_EXTSCH=F2009121017025600406+F2005031812174403109F2008112110370021712&IS_ORG_ID=F2008112110370021712&IS_STYLE=default&IS_SORT_FLD=sort.tror,sort.refc&IS_SORT_KND=asc">国立公文書館 - 詳細表示画面 - 資料群詳細</a>、<a href="https://www.digital.archives.go.jp/DAS/meta/result?DEF_XSL=detail&IS_KIND=detail&DB_ID=G9100001EXTERNAL&GRP_ID=G9100001&IS_TAG_S16=eadid&IS_KEY_S16=F1000000000000095536&IS_LGC_S16=AND&IS_EXTSCH=F2009121017025600406+F2005031812174403109+F2008112110370021712+F1000000000000095536&IS_ORG_ID=F1000000000000095536&IS_STYLE=default&IS_SORT_FLD=sort.tror,sort.refc&IS_SORT_KND=asc">国立公文書館 - 詳細表示画面 - 簿冊詳細</a>、<a href="https://www.digital.archives.go.jp/DAS/meta/result?DEF_XSL=detail&IS_KIND=detail&DB_ID=G9100001EXTERNAL&GRP_ID=G9100001&IS_TAG_S16=eadid&IS_KEY_S16=M2017060517281953075&IS_LGC_S16=AND&IS_EXTSCH=F2009121017025600406+F2005031812174403109+F2008112110370021712+F1000000000000095536&IS_ORG_ID=M2017060517281953075&IS_STYLE=default&IS_SORT_FLD=sort.tror,sort.refc&IS_SORT_KND=asc">国立公文書館 - 詳細表示画面 - 件名・細目詳細</a>、<a href="https://www.digital.archives.go.jp/DAS/meta/listPhoto?LANG=default&BID=F1000000000000095536&ID=M2017060517281953075&TYPE=">国立公文書館 - 簿冊</a></p>
+<p><a href="https://search.douban.com/book/subject_search?search_text=%E9%A1%BE%E5%87%86%E6%96%87%E9%9B%86&cat=1001">豆瓣搜索页</a>、<a href="https://book.douban.com/tag/%E5%B0%8F%E8%AF%B4">豆瓣tag</a>、<a href="https://book.douban.com/subject/2025235/">豆瓣图书页</a>、<a href="https://book.douban.com/producers/2">豆瓣出版者</a>、<a href="https://book.douban.com/press/2582/">豆瓣出版社页</a>、<a href="https://book.douban.com/series/1634">豆瓣丛书</a>、<a href="https://book.douban.com/works/1010241">豆瓣图书版本</a>、<a href="https://book.douban.com/author/4559976/books?sortby=collect&format=pic">豆瓣作者的书</a>、<a href="https://www.douban.com/doulist/43430373/">豆列</a>、<a href="https://book.douban.com/people/ahbei/wish">豆瓣想读</a>、<a href="https://book.douban.com/people/ahbei/do">豆瓣在读</a>、<a href="https://book.douban.com/people/ahbei/collect">豆瓣已读</a>、<a href="https://book.douban.com/cart">豆瓣购书单</a></p>
+<p><a href="https://item.jd.com/13142575.html">京东图书详情页</a>、<a href="https://e.jd.com/30812957.html">京东电子书</a>、<a href="https://product.dangdang.com/29445325.html">当当图书详情页</a>、<a href="http://e.dangdang.com/products/1901304475.html">当当电子书</a>、<a href="https://citic.cmread.com/zxHtml/html/paperBookDetailShare.html?paperBookId=100000000000889719&btype=2&cm=Z0050017&useName=zx_citicwap_Z0050017&uid=zs_2_100000000000889719">咪咕云书店</a>、<a href="https://www.dedao.cn/ebook/detail?id=bBVDEXGGLn7eB51b8NjVRqDoQJPMk3aBKpwadYrXmAxE4Ov92lgzK6ZypxLqdQjp">得到电子书</a>、<a href="https://read.douban.com/ebook/330949616/">豆瓣阅读</a>、<a href="http://www.bookschina.com/7337286.htm">中图网详情页</a>、<a href="http://www.bookschina.com/kinder/47160000/">中图网列表页</a>、<a href="http://www.bookschina.com/kinder/47160000_0_0_11_0_0_1_0_0_/">中图网大图页</a>、<a href="http://www.bookschina.com/book_find2/?stp=%25u9a86%25u4ee5%25u519b&sCate=3">中图网检索结果</a>、<a href="http://www.bookschina.com/publish/5633/">中图网出版社</a>、<a href="http://www.bookschina.com/tejia/NewTeHui.aspx">中图网特惠页</a>、<a href="http://www.bookschina.com/books/9kuai9/">中图网9块9包邮专场</a>、<a href="http://www.bookschina.com/fivestar/default.aspx">中图网五星图书</a>、<a href="http://www.bookschina.com/24hour/">中图网热榜</a>、<a href="https://search.kongfz.com/product_result/?key=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0&status=0&_stpmt=eyJzZWFyY2hfdHlwZSI6Imhpc3RvcnkifQ==">孔夫子旧书网搜索结果</a>、<a href="https://book.kongfz.com/17747/5147853440/">孔夫子旧书网商品页</a>、<a href="https://www.kongfz.com/writer/2193293/">孔夫子旧书网作者页</a>、<a href="https://www.kongfz.com/publisher/3060/">孔夫子旧书网出版社页</a>、<a href="https://shop.kongfz.com/17747/cat_1/">孔夫子旧书网书店页</a>、<a href="https://book.kongfz.com/Cjisuanji/">孔夫子旧书网图书类型页</a>、<a href="https://search.kongfz.com/item_result/?press=hk4ebak6c11k90aek7535k51fak7248k793e&order=1&status=0">孔夫子旧书网图书页</a></p>
+<h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>1.10.4更新：</p>
+<ul>
+<li>修复：去除图书url中掺入的“多抓鱼”，去除一键复制元数据中的某些杂项</li>
+<li>修复：cadal搜索页面上元素检测bug导致页面卡死，感谢bojack反馈 <a href="https://greasyfork.org/zh-CN/scripts/435569/discussions/157134#comment-343066">https://greasyfork.org/zh-CN/scripts/435569/discussions/157134#comment-343066</a></li>
+<li>其它：跟进freembook新政策，获取图书秒传码不再限制次数（改为999次&#x2F;日）</li>
+</ul>
+<p>1.10.3更新：</p>
+<ul>
+<li>修复：试读、全文下载功能，无封底时误认为有封底，以及判断是否触发验证码时函数typo，见 <a href="https://greasyfork.org/zh-CN/scripts/435569/discussions/153907">https://greasyfork.org/zh-CN/scripts/435569/discussions/153907</a> ，感谢 fdxs 反馈</li>
+<li>优化：试读、全文下载功能，在placeholder中添加了一些提示</li>
+</ul>
+<p>1.10.2更新：</p>
+<ul>
+<li>修复：修复导致下载PDF&#x2F;ZIP失败的代码错误，见 <a href="https://greasyfork.org/zh-CN/scripts/435569/discussions/153907">https://greasyfork.org/zh-CN/scripts/435569/discussions/153907</a> ，感谢 fdxs 反馈</li>
+</ul>
+<p>1.10.1更新：</p>
+<ul>
+<li>修复：无尽添加元素导致页面卡死的bug，见<a href="https://greasyfork.org/zh-CN/scripts/discussions/153262">讨论</a></li>
+</ul>
+<p>1.10.0更新：</p>
+<ul>
+<li>新功能：读秀系网站支持试读、全文阅读的书，新增一键下载功能，支持以PDF、ZIP或者分页格式下载指定页面范围，可选择清晰度、是否下载附录页，全文阅读时，可下载目录；</li>
+<li>优化：查看封面、封底、版权页时，如果有登录限制，可以绕过登录（直接window.open），见<a href="https://greasyfork.org/zh-CN/scripts/435569/discussions/148542">讨论</a>，感谢licpm反馈</li>
+<li>修复：秒传功能用freembook代替已失效的数据源，感谢<a href="https://greasyfork.org/zh-CN/scripts/435569/discussions/150323">Shae推荐</a></li>
+<li>优化：支持在详情页上右键秒传、读秀系网站支持秒传</li>
+<li>优化：优化多抓鱼的搜索项</li>
+<li>修复：多抓鱼搜索内容含有&#x2F;时会导致的错误</li>
+<li>优化：排除Google等部分网站，防止search?规则误匹配到而报错</li>
+</ul>
+<p>1.9.2更新：</p>
+<ul>
+<li>修复：秒传时库存判断错误，导致一直提示“无库存不要尝试”；</li>
+</ul>
+<p>1.9.1更新：</p>
+<ul>
+<li>新功能：参考联盟增加多抓鱼链接；</li>
+<li>修复：得到电子书页面因jQuery未定义导致的错误；当当电子书先前timeout时长不足可能导致jQuery未定义错误；</li>
+<li>优化：孔夫子网上参考联盟与书名没有分隔号，视觉效果不好；优化书名处理函数；灰色SSID拒绝查询秒传码；</li>
+</ul>
+<p>1.9.0更新：</p>
+<ul>
+<li>新功能：开始在京东纸书、京东电子书、当当纸书、当当电子书、中国图书网、孔夫子旧书网、得到电子书、咪咕云书店、豆瓣阅读等图书电商站、电子书站上提供到参考联盟和豆瓣图书的链接。豆瓣支持press页面。</li>
+<li>新功能：支持自动翻页脚本，功能请求来自<a href="https://greasyfork.org/zh-CN/scripts/435569/discussions/145011">Ben1997</a>，代码实现得到了<a href="https://greasyfork.org/zh-CN/scripts/435569/discussions/145011">yysk.org</a>的帮助。</li>
+<li>新功能：芝麻开门选项中隐藏了彩蛋，开启彩蛋时会请求跨域权限。彩蛋有效期无法预料，因为接口非脚本作者提供，而是偶然发现的。</li>
+<li>优化：根据<a href="https://greasyfork.org/zh-CN/scripts/435569/discussions/119063">ttfuu的建议</a>做了一些细节优化，如新加元素尽量与原站点统一等。提高复用率等方面的其它优化。</li>
+</ul>
+<p>1.8.1更新：</p>
+<ul>
+<li>新功能：支持豆瓣出版者聚合页面(<a href="https://book.douban.com/producers//d+">https://book.douban.com/producers/\d+</a>)</li>
+<li>修复：部分复制项的格式化缺陷（cadal搜索页上链接错误、未能分辨一些数据项等）</li>
+<li>优化：格式化代码，提高代码复用率</li>
+<li>其它：制作了一些演示示意图</li>
+</ul>
+<p>1.8.0更新：</p>
+<ul>
+<li>新功能：一键复制支持范围从参考联盟扩展到豆瓣、读秀及各镜像站、CADAL、社科文献中心、长春数字图书馆等；支持东莞图书馆。（一键复制借鉴了<a href="https://greasyfork.org/zh-CN/scripts/435569/discussions/119063">ttfuu</a>的建议，东莞图书馆也是ttfuu推荐，感谢！）</li>
+<li>优化：复制索书号和复制元数据的按钮图标分开显示，不再一大一小，edge浏览器不支持在部分页面上显示小于100%的字体。</li>
+<li>修复：长春数字图书馆(<a href="http://fx.ccelib.com/)%E9%83%A8%E5%88%86%E5%9B%BE%E4%B9%A6%E6%97%A0%E6%B3%95%E8%8E%B7%E5%8F%96ssid/dxid%E3%80%82">http://fx.ccelib.com/)部分图书无法获取ssid/dxid。</a></li>
+</ul>
+<p>1.7.2更新：</p>
+<ul>
+<li>新功能：添加两个复制按钮，一键复制ssid&#x2F;dxid（小📋）或图书元数据（大📋），目前仅在ucdrs的搜索结果页面启用。此功能<a href="https://greasyfork.org/zh-CN/scripts/435569/discussions/145186">由ggyylxz1提议</a></li>
+</ul>
+<p>1.7.1更新：</p>
+<ul>
+<li>优化：日本内阁文库添加对<a href="http://www.digital.archives.go.jp/file/*.html%E7%9A%84%E6%94%AF%E6%8C%81">www.digital.archives.go.jp/file/*.html的支持</a></li>
+<li>新功能：部分实现<a href="https://greasyfork.org/zh-CN/scripts/447373">百度网盘路径助手</a>的功能，默认关闭，需点击设置菜单中的“显式链接”开启；此功能详见<a href="https://greasyfork.org/zh-CN/scripts/435569/discussions/138216">讨论</a>，百度网盘路径助手使用了本脚本倡议的ID格式，欢迎其它类似脚本前来通告。</li>
+</ul>
+<p>1.7.0更新：</p>
+<ul>
+<li>新功能：支持国立公文書館デジタルアーカイブ的文献编号，此国立公文書館即日本内阁文库的发布站点。</li>
+</ul>
+<p>1.6.2更新：</p>
+<ul>
+<li>新功能：支持国家哲学社会科学文献中心的古籍文献编号。</li>
+<li>优化：读秀、CADAL系图书用编号的颜色深浅（蓝色透明度）标识库存率的高低，没有库存的直接显示灰色。</li>
+</ul>
+<p>1.6.1更新：</p>
+<ul>
+<li>新功能：鼠标悬浮在书号上时，显示此号段图书的库存率，如ssid为12345678的书，可以看到1234开头的这10000本书中大约多少本有库存。</li>
+</ul>
+<p>1.6.0更新：</p>
+<ul>
+<li>新功能：支持长春数字图书馆 fx.ccelib.com；</li>
+<li>其它：减小ssid和dxid字体避免破坏部分页面的布局；代码优化；</li>
+</ul>
+<p>1.5.1更新：</p>
+<ul>
+<li>修bug：上次更新误删了读秀详情页相关代码块……</li>
+</ul>
+<p>1.5.0更新：</p>
+<ul>
+<li>新功能：读秀搜索页、读秀详情页、图书馆搜索联盟详情页、CADAL详情页提供ISBN时，提供“豆瓣直达”链接，豆瓣无法从ISBN跳转到图书页面时，再转到豆瓣搜索页面；</li>
+<li>新功能：读秀搜索页、读秀详情页提供到目录搜索页的链接，展示匹配到预定关键词的目录项（读秀限制无法查看全部目录项）；</li>
+<li>其它：代码重构，靠拢es6规范；</li>
+</ul>
+<p>1.4.2更新：</p>
+<ul>
+<li>修bug：读秀以及镜像站上，图书详情页在可提供ssid时仍显示dxid的问题（因为包含ssid的代码行在ajax请求后被从文档节点中删除）。@rabelais反馈bug于<a href="https://greasyfork.org/zh-CN/scripts/435569/discussions/120005">https://greasyfork.org/zh-CN/scripts/435569/discussions/120005</a></li>
+</ul>
+<p>1.4.1更新：</p>
+<ul>
+<li>修bug：cadal页面url可能匹配失败，jQuery冲突导致豆瓣和ucdrs部分功能失效；</li>
+</ul>
+<p>1.4.0更新：</p>
+<ul>
+<li>支持在CADAL上显示ssno和到豆瓣的链接；</li>
+</ul>
+<p>1.3.0更新：</p>
+<ul>
+<li>支持在读秀及其镜像站上显示ssid、dxid和到豆瓣的链接；</li>
+</ul>
+<p>1.2.2更新：</p>
+<ul>
+<li>修bug：用户安装同类型脚本时，本脚本可能不起作用，以及参考联盟搜索页上DX号被分成两行显示的问题；</li>
+</ul>
+<p>1.2.1更新：</p>
+<ul>
+<li>支持在豆瓣的购书单页面（cart）显示ucdrs的链接；修复豆列页不显示ucdrs链接和想读&#x2F;在读&#x2F;已读页只在第一页显示ucdrs链接的bug</li>
+</ul>
+<p>1.2.0更新：</p>
+<ul>
+<li>支持豆瓣多种图书页面：标签搜索(tag)、丛书(series)、版本(works)、作者(author)、豆列(doulist)、想读(wish)、在读(do)、已读(collect)</li>
+</ul>
+<p>1.1.0更新：</p>
+<ul>
+<li>访问全国图书馆参考咨询联盟（<a href="http://book.ucdrs.superlib.net/%EF%BC%89%E6%90%9C%E7%B4%A2%E9%A1%B5%E5%92%8C%E8%AF%A6%E6%83%85%E9%A1%B5%E6%97%B6%EF%BC%8C%E6%98%BE%E7%A4%BA%E8%B1%86%E7%93%A3%E5%9B%BE%E4%B9%A6%EF%BC%88https://book.douban.com/%EF%BC%89%E8%B7%B3%E8%BD%AC%E9%93%BE%E6%8E%A5%EF%BC%9B">http://book.ucdrs.superlib.net/）搜索页和详情页时，显示豆瓣图书（https://book.douban.com/）跳转链接；</a></li>
+<li>访问豆瓣图书（<a href="https://book.douban.com/%EF%BC%89%E6%90%9C%E7%B4%A2%E9%A1%B5%E5%92%8C%E5%9B%BE%E4%B9%A6%E9%A1%B5%E6%97%B6%EF%BC%8C%E6%98%BE%E7%A4%BA%E5%88%B0%E5%85%A8%E5%9B%BD%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%8F%82%E8%80%83%E5%92%A8%E8%AF%A2%E8%81%94%E7%9B%9F%EF%BC%88http://book.ucdrs.superlib.net/%EF%BC%89%E7%9A%84%E8%B7%B3%E8%BD%AC%E9%93%BE%E6%8E%A5%E3%80%82">https://book.douban.com/）搜索页和图书页时，显示到全国图书馆参考咨询联盟（http://book.ucdrs.superlib.net/）的跳转链接。</a></li>
+</ul>
+<h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><ul>
+<li><a href="https://www.zhihu.com/question/20785385/answer/26694022">网上流传的扫描版PDF 图书是谁在做？ - 知乎用户的回答 - 知乎</a></li>
+<li><a href="https://www.zhihu.com/question/345390551/answer/916493247">龙岩网络图书馆是怎么回事？ - 知乎</a></li>
+<li><a href="https://mp.weixin.qq.com/s?src=11&timestamp=1638800891&ver=3480&signature=rSD7cdY2D2z-3YJCX3WDlTS5ucTQYRHtqgDeUzE8aEVkfsDZ62WPJ4mCw0HigRyHLgQiQ7rlE34Wr3imtrnFxCaP9PcFzM1D*XWSjBn1xVVGAhjQOA*kLtqIw65tW3Os&new=1">淘宝书商为啥什么书都能找到：揭秘代找PDF背后的真相</a></li>
+<li><a href="https://www.duxiu.com/bottom/help_get_email.html">什么是文献传递 - 读秀使用帮助</a></li>
+<li><a href="https://www.maguang.net/archives/4122">中美百万网站66万册电子书目录 – 半省堂</a></li>
+</ul>
+<p><a href="https://greasyfork.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMWxtQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f876942da4d2003293aa768cf7650eaf81b33388/chrome_fCUkQXPcWm_tag.png?locale=zh-CN"><img src="https://greasyfork.s3.us-east-2.amazonaws.com/gr0sj04fpj0ftp10p4pa9j5fdfff" alt="img"></a> <a href="https://greasyfork.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMXRtQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--95748ad39701f201f99cb0dd45d425b322e02a44/4YB5JLZ6pnejbtV.png?locale=zh-CN"><img src="https://greasyfork.s3.us-east-2.amazonaws.com/ebic3ducdjx7uy6u1aku63c5oimi" alt="img"></a> <a href="https://greasyfork.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMXhtQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--22961918f8c98b25f84e97a3398acb5de6b50cc5/BelWY4SsjRNpJuT.png?locale=zh-CN"><img src="https://greasyfork.s3.us-east-2.amazonaws.com/czfwqa1ty6y8u1bcayh547gvfns8" alt="img"></a> <a href="https://greasyfork.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMTFtQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4910aa5f799567765123bc8efc7dd54c3deef4d2/GtWAXd27i1DwLcI.png?locale=zh-CN"><img src="https://greasyfork.s3.us-east-2.amazonaws.com/5cebt79gruh39od7r2lxrijhmmvj" alt="img"></a> <a href="https://greasyfork.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMTVtQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--193d290e5c02ecfdec48c4faaa758485f984a0a4/mUdW2Kj1hIC7Pgu.png?locale=zh-CN"><img src="https://greasyfork.s3.us-east-2.amazonaws.com/1n5jbhibkcfkslfbxwwvu2zd3urx" alt="img"></a></p>
+<h1 id="评论"><a href="#评论" class="headerlink" title="评论"></a>评论</h1><ol>
+<li>善用搜索<ul>
+<li><a href="https://forum.freemdict.com/search?q=%E8%AF%BB%E7%A7%80">https://forum.freemdict.com/search?q=%E8%AF%BB%E7%A7%80</a></li>
+<li><a href="https://forum.freemdict.com/t/topic/15461">芝麻开门</a></li>
+<li><a href="https://greasyfork.org/zh-CN/scripts/435569/discussions/150323#comment-330079">从这里找到办法</a></li>
+</ul>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>e-book</category>
+        <category>读秀</category>
+      </categories>
+      <tags>
+        <tag>e-book</tag>
       </tags>
   </entry>
   <entry>

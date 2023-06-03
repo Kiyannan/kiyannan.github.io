@@ -1472,7 +1472,7 @@ pre code {
   flex-direction: column;
   justify-content: center;
   margin: 0 auto;
-  width: 97.7%;
+  width: 1000px;
 }
 @media (max-width: 767px) {
   .footer-inner {
@@ -1481,12 +1481,12 @@ pre code {
 }
 @media (min-width: 1200px) {
   .footer-inner {
-    width: 97.7%;
+    width: 1250px;
   }
 }
 @media (min-width: 1600px) {
   .footer-inner {
-    width: 97.7%;
+    width: 73%;
   }
 }
 .use-motion .footer {
@@ -2344,7 +2344,7 @@ header.header {
   display: flex;
   justify-content: space-between;
   margin: 0 auto;
-  width: 97.7%;
+  width: 1000px;
 }
 @media (max-width: 767px) {
   .main {
@@ -2353,12 +2353,12 @@ header.header {
 }
 @media (min-width: 1200px) {
   .main {
-    width: 97.7%;
+    width: 1250px;
   }
 }
 @media (min-width: 1600px) {
   .main {
-    width: 97.7%;
+    width: 73%;
   }
 }
 @media (max-width: 991px) {
@@ -2686,14 +2686,16 @@ body {
 }
 .main-inner {
   background-color: rgba(255,255,255,0);
-  padding: 0px 40px 40px 40px;
+  padding: 0px 0px 20px 20px;
+  position: relative;
+  left: 55px;
 }
 .main-inner > .sub-menu,
 .main-inner > .post-block,
 .main-inner > .tabs-comment,
 .main-inner > .comments,
 .main-inner > .pagination {
-  background: rgba(245,245,245,0.851);
+  background: rgba(245,245,245,0.941);
 }
 body {
   color: #000;
@@ -2719,4 +2721,8 @@ body {
 }
 .popup {
   opacity: 0.8;
+}
+.column {
+  position: relative;
+  left: 55px;
 }
