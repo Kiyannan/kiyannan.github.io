@@ -6,6 +6,43 @@ HTMLElement.prototype.wrap = function(wrapper) {
   wrapper.appendChild(this);
 };
 
+/* Code Contribute by Kiyannan:BEGIN */
+(function() {
+   function toggle(el) {
+     if (el.style.display == 'none') {
+       el.style.display = '';
+     } else {
+      el.style.display = 'none';
+     }
+   }
+   function ready(fn) {
+	  if (document.readyState !== 'loading') {
+      fn();
+      return;
+    }
+    document.addEventListener('DOMContentLoaded', fn);
+  }
+  function hideContent(){
+	//console.log(this);
+	toggle(this.parentNode.parentNode.querySelectorAll("div.fold")[0]);
+	this.classList.toggle('open');
+  }
+  ready(function(){
+	document.addEventListener('click', (event) => {
+      if (event.target.closest('.fold_hider')) {
+        hideContent.call(event.target, event);
+      }
+    });
+	//默认情况下折叠
+	const foldNodeList = document.querySelectorAll("div.fold");
+	for (let i = 0; i < foldNodeList.length; i++) {
+		foldNodeList[i].style.display='none';
+	}
+	//document.getElementsByClassName("fold").getElementsByTagName("div").style.display='none';
+  });
+})();
+/* Code Contribute by Kiyannan:END */
+
 (function() {
   const onPageLoaded = () => document.dispatchEvent(
     new Event('page:loaded', {

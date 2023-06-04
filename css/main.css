@@ -2731,3 +2731,19 @@ body {
   position: relative;
   left: 55px;
 }
+.hider_title {
+  font-family: "Microsoft Yahei";
+  cursor: pointer;
+  background-color: #30a2ff;
+  border-radius: 10px;
+}
+.close:after {
+  content: "▼";
+}
+.open:after {
+  content: "▲";
+}
+.fold {
+  background-color: #fff5b8;
+  border-radius: 10px;
+}
