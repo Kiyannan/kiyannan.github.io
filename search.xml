@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Typecho</title>
+    <url>/2023/05/28/Typecho/</url>
+    <content><![CDATA[<p>因为想着迟早有一天要有自己的服务器然后部署动态网页，所以Hexo Next只能是过度，个人又非常喜欢Typecho这种轻量的Blog, 记录一下资源以待后续使用(给自己挖坑，悲<del>^</del>)</p>
+<span id="more"></span>
+
+<p><a href="http://101.32.194.18/4.html">http://101.32.194.18/4.html</a></p>
+<p><a href="https://www.typecho.wiki/themes/">https://www.typecho.wiki/themes/</a></p>
+<p><a href="https://typecho.org/">https://typecho.org/</a></p>
+<p><a href="https://www.youtube.com/watch?v=1bJyN7LqRqQ">https://www.youtube.com/watch?v=1bJyN7LqRqQ</a></p>
+<p><a href="https://blog.naibabiji.com/step">网页注意要点</a></p>
+<p><a href="https://cloud.tencent.com/developer/article/1005807?areaSource=106001.4">https://cloud.tencent.com/developer/article/1005807?areaSource=106001.4</a></p>
+<p><a href="https://juejin.cn/post/6969113070346403853">https://juejin.cn/post/6969113070346403853</a></p>
+<p><a href="https://cloud.tencent.com/developer/article/1900496">https://cloud.tencent.com/developer/article/1900496</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/34211709">https://zhuanlan.zhihu.com/p/34211709</a></p>
+<p><a href="https://www.namesilo.com/">https://www.namesilo.com/</a></p>
+<p><a href="https://www.fei-blog.life/?p=19">https://www.fei-blog.life/?p=19</a></p>
+<p><a href="https://www.vultr.com/vultr-vs-digitalocean/?promo=FLYVULTR250&utm_source=google-na-competition&utm_medium=paidmedia&obility_id=136728621086&utm_campaign=Competition_-_DigitalOcean_-_APAC_-_NA_-_Search&utm_term=digital%20ocean&utm_content=605387792618&gclid=CjwKCAjwscGjBhAXEiwAswQqNMfD9yP3VO7iiLcWce_vYnxsltlW4u_eIN3JIF3eurJHf_a6HZ0jhxoC1soQAvD_BwE">https://www.vultr.com/vultr-vs-digitalocean/?promo=FLYVULTR250&amp;utm_source=google-na-competition&amp;utm_medium=paidmedia&amp;obility_id=136728621086&amp;utm_campaign=Competition_-_DigitalOcean_-_APAC_-_NA_-_Search&amp;utm_term=digital%20ocean&amp;utm_content=605387792618&amp;gclid=CjwKCAjwscGjBhAXEiwAswQqNMfD9yP3VO7iiLcWce_vYnxsltlW4u_eIN3JIF3eurJHf_a6HZ0jhxoC1soQAvD_BwE</a></p>
+<p><a href="https://www.digitalocean.com/try/developer-brand?utm_campaign=amer_brand_kw_en_cpc&utm_adgroup=digitalocean_exact_exact&_keyword=digital%20ocean&_device=c&_adposition=&utm_content=conversion&utm_medium=cpc&utm_source=google&gad=1&gclid=CjwKCAjwscGjBhAXEiwAswQqNM295SyUjzAmMPJPdC8wzDsogx1hzhYAHfF6E8iOpz7shKAGYpN6RBoCuU0QAvD_BwE">https://www.digitalocean.com/try/developer-brand?utm_campaign=amer_brand_kw_en_cpc&amp;utm_adgroup=digitalocean_exact_exact&amp;_keyword=digital%20ocean&amp;_device=c&amp;_adposition=&amp;utm_content=conversion&amp;utm_medium=cpc&amp;utm_source=google&amp;gad=1&amp;gclid=CjwKCAjwscGjBhAXEiwAswQqNM295SyUjzAmMPJPdC8wzDsogx1hzhYAHfF6E8iOpz7shKAGYpN6RBoCuU0QAvD_BwE</a></p>
+<p><a href="https://github.com/newraina/typecho-theme-NexTPisces">https://github.com/newraina/typecho-theme-NexTPisces</a></p>
+<p><a href="https://github.com/stevenjoezhang/live2d-widget">https://github.com/stevenjoezhang/live2d-widget</a></p>
+<p><a href="https://sspai.com/post/64093">https://sspai.com/post/64093</a></p>
+<p><a href="https://github.com/newraina/typecho-theme-NexTPisces">https://github.com/newraina/typecho-theme-NexTPisces</a></p>
+]]></content>
+      <tags>
+        <tag>Typecho</tag>
+        <tag>Blog</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Building Hexo-Next Blog with GitHub</title>
     <url>/2023/05/27/Building-Hexo-Next-Blog-with-GitHub/</url>
     <content><![CDATA[<h3 id="Theme-GitHub-amp-Docs"><a href="#Theme-GitHub-amp-Docs" class="headerlink" title="Theme GitHub &amp; Docs"></a>Theme GitHub &amp; Docs</h3><p><a href="https://github.com/next-theme/hexo-theme-next">Next Theme GitHub</a></p>
@@ -122,17 +151,14 @@
 <p><a href="https://blog.cyfan.top/p/abf13c7a.html">Live2D：为你的hexo博客添加萌萌哒看板娘 |</a></p>
 <p><a href="https://www.fghrsh.net/post/170.html">原作者自建API步骤</a></p>
 <p><a href="https://among.moe/aLive2D/up.html">自建api</a></p>
-<h3 id="侧边栏"><a href="#侧边栏" class="headerlink" title="侧边栏"></a>侧边栏</h3><div><div class="fold_hider"><div class="close hider_title">点击显/隐内容</div></div><div class="fold">
-<p><a href="https://yifanzhang13.github.io/2020/04/02/NexT-Theme-Decoration/">选项解释</a></p>
-
-</div></div>
-
+<h3 id="侧边栏"><a href="#侧边栏" class="headerlink" title="侧边栏"></a>侧边栏</h3><p><a href="https://yifanzhang13.github.io/2020/04/02/NexT-Theme-Decoration/">选项解释</a></p>
 <h3 id="Markdown功能"><a href="#Markdown功能" class="headerlink" title="Markdown功能"></a>Markdown功能</h3><p><a href="https://www.cnblogs.com/woshimrf/p/hexo-fold-block.html">Hexo next博客添加折叠块功能添加折叠代码块</a></p>
 <div><div class="fold_hider"><div class="close hider_title">点击显/隐内容</div></div><div class="fold">
 <p><a href="https://homulilly.com/post/hexo-next-add-code-folding.html#more">Hexo NexT 主题添加代码折叠功能</a></p>
 
 </div></div>
 
+<p><a href="https://extremegtr.github.io/2017/09/27/Customize-NexT-Gemini-theme/">Markdown的HTML渲染样式自定义</a></p>
 <h3 id="参考博客-amp-重要的资源"><a href="#参考博客-amp-重要的资源" class="headerlink" title="参考博客&amp;重要的资源"></a>参考博客&amp;重要的资源</h3><p><a href="https://sspai.com/post/64093">3.2 主题部分的内容十分重要</a></p>
 <p><a href="https://hexo.io/plugins/">Hexo Plugin</a></p>
 <p>[GitHub Action的CI服务][3]</p>
@@ -160,12 +186,36 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2023/05/27/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>E-book(1)</title>
     <url>/2023/05/31/E-book(1)/</url>
     <content><![CDATA[<h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p>寻找读秀资源的朋友，可以看<a href="https://www.bilibili.com/video/BV1Lh4y1H7ot/?from=search">读秀6.0更新5000本！纯为爱发电<em>哔哩哔哩</em>bilibili</a>，里面提到了几个百度网盘分享群，可尝试加入，无收费等情况，可部分解决目前大部分平台只提供dxid不再显示ssid的问题。</p>
 <span id="more"></span>
 
-<h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><p>显示图书在各文献平台上的编号，提升文献互助、图书流通的效率；提供各文献站点、图书电商站与豆瓣图书间的互访链接，以方便查询更丰富的数据项；一键复制各平台图书数据，便利信息发布和互助交流。</p>
+<h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><div><div class="fold_hider"><div class="close hider_title">Show/Hide</div></div><div class="fold">
+<p>显示图书在各文献平台上的编号，提升文献互助、图书流通的效率；提供各文献站点、图书电商站与豆瓣图书间的互访链接，以方便查询更丰富的数据项；一键复制各平台图书数据，便利信息发布和互助交流。</p>
+
+</div></div>
+
 <h2 id="功能列表"><a href="#功能列表" class="headerlink" title="功能列表"></a>功能列表</h2><ul>
 <li>访问 **<a href="http://www.dglib.superlib.net/">全国图书馆参考咨询联盟</a>**、各种 <strong><a href="http://book.ccelib.com/search?sw=%E6%96%87%E7%8C%AE&allsw=&bCon=&ecode=utf-8&channel=search&Field=all">读秀镜像站</a><strong>、</strong><a href="https://cadal.edu.cn/cadalinfo/search">CADAL</a><strong>、</strong><a href="http://www.ncpssd.org/Literature/ancientbooklist.aspx">国家哲学社会科学文献中心</a><strong>、</strong><a href="https://www.digital.archives.go.jp/">国立公文書館デジタルアーカイブ</a></strong> 时，搜索需要的图书，本脚本会显示图书的ssid或dxid（读秀）、ssno（CADAL）、bcid（文献中心）、daid（国立公文書館），并显示图书到豆瓣的链接、此号段库存率（限读秀、CADAL）、到目录页的链接（限读秀）等信息。</li>
 <li>访问豆瓣图书各种页面时，显示到参考联盟或其他有价值的相关站点的链接。</li>
@@ -418,55 +468,6 @@
       </categories>
       <tags>
         <tag>e-book</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2023/05/27/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Typecho</title>
-    <url>/2023/05/28/Typecho/</url>
-    <content><![CDATA[<p>因为想着迟早有一天要有自己的服务器然后部署动态网页，所以Hexo Next只能是过度，个人又非常喜欢Typecho这种轻量的Blog, 记录一下资源以待后续使用(给自己挖坑，悲<del>^</del>)</p>
-<span id="more"></span>
-
-<p><a href="http://101.32.194.18/4.html">http://101.32.194.18/4.html</a></p>
-<p><a href="https://www.typecho.wiki/themes/">https://www.typecho.wiki/themes/</a></p>
-<p><a href="https://typecho.org/">https://typecho.org/</a></p>
-<p><a href="https://www.youtube.com/watch?v=1bJyN7LqRqQ">https://www.youtube.com/watch?v=1bJyN7LqRqQ</a></p>
-<p><a href="https://blog.naibabiji.com/step">网页注意要点</a></p>
-<p><a href="https://cloud.tencent.com/developer/article/1005807?areaSource=106001.4">https://cloud.tencent.com/developer/article/1005807?areaSource=106001.4</a></p>
-<p><a href="https://juejin.cn/post/6969113070346403853">https://juejin.cn/post/6969113070346403853</a></p>
-<p><a href="https://cloud.tencent.com/developer/article/1900496">https://cloud.tencent.com/developer/article/1900496</a></p>
-<p><a href="https://zhuanlan.zhihu.com/p/34211709">https://zhuanlan.zhihu.com/p/34211709</a></p>
-<p><a href="https://www.namesilo.com/">https://www.namesilo.com/</a></p>
-<p><a href="https://www.fei-blog.life/?p=19">https://www.fei-blog.life/?p=19</a></p>
-<p><a href="https://www.vultr.com/vultr-vs-digitalocean/?promo=FLYVULTR250&utm_source=google-na-competition&utm_medium=paidmedia&obility_id=136728621086&utm_campaign=Competition_-_DigitalOcean_-_APAC_-_NA_-_Search&utm_term=digital%20ocean&utm_content=605387792618&gclid=CjwKCAjwscGjBhAXEiwAswQqNMfD9yP3VO7iiLcWce_vYnxsltlW4u_eIN3JIF3eurJHf_a6HZ0jhxoC1soQAvD_BwE">https://www.vultr.com/vultr-vs-digitalocean/?promo=FLYVULTR250&amp;utm_source=google-na-competition&amp;utm_medium=paidmedia&amp;obility_id=136728621086&amp;utm_campaign=Competition_-_DigitalOcean_-_APAC_-_NA_-_Search&amp;utm_term=digital%20ocean&amp;utm_content=605387792618&amp;gclid=CjwKCAjwscGjBhAXEiwAswQqNMfD9yP3VO7iiLcWce_vYnxsltlW4u_eIN3JIF3eurJHf_a6HZ0jhxoC1soQAvD_BwE</a></p>
-<p><a href="https://www.digitalocean.com/try/developer-brand?utm_campaign=amer_brand_kw_en_cpc&utm_adgroup=digitalocean_exact_exact&_keyword=digital%20ocean&_device=c&_adposition=&utm_content=conversion&utm_medium=cpc&utm_source=google&gad=1&gclid=CjwKCAjwscGjBhAXEiwAswQqNM295SyUjzAmMPJPdC8wzDsogx1hzhYAHfF6E8iOpz7shKAGYpN6RBoCuU0QAvD_BwE">https://www.digitalocean.com/try/developer-brand?utm_campaign=amer_brand_kw_en_cpc&amp;utm_adgroup=digitalocean_exact_exact&amp;_keyword=digital%20ocean&amp;_device=c&amp;_adposition=&amp;utm_content=conversion&amp;utm_medium=cpc&amp;utm_source=google&amp;gad=1&amp;gclid=CjwKCAjwscGjBhAXEiwAswQqNM295SyUjzAmMPJPdC8wzDsogx1hzhYAHfF6E8iOpz7shKAGYpN6RBoCuU0QAvD_BwE</a></p>
-<p><a href="https://github.com/newraina/typecho-theme-NexTPisces">https://github.com/newraina/typecho-theme-NexTPisces</a></p>
-<p><a href="https://github.com/stevenjoezhang/live2d-widget">https://github.com/stevenjoezhang/live2d-widget</a></p>
-<p><a href="https://sspai.com/post/64093">https://sspai.com/post/64093</a></p>
-<p><a href="https://github.com/newraina/typecho-theme-NexTPisces">https://github.com/newraina/typecho-theme-NexTPisces</a></p>
-]]></content>
-      <tags>
-        <tag>Blog</tag>
-        <tag>Typecho</tag>
       </tags>
   </entry>
 </search>
